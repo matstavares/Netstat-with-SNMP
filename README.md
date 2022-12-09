@@ -32,7 +32,7 @@ options:
                         ['all'])
 
   -s [STATE ...], --state [STATE ...]
-                        Filter wich state should show: established, listen,
+                        Filter wich state should show: established, listen or
                         timeWait. (default: ['established'])
 
   -u USER, --user USER  User to login in SNMP v3. (default: None)
