@@ -6,7 +6,7 @@ Looking on TCP and UDP connections
 usage: netstat.py [-h] [-TCP] [-UDP] [-R [REMOTE ...]] [-L [LOCAL ...]]
                   [-c COMMUNITY] [-v VERSION] [-s [STATE ...]] [ip]
 
-positional arguments:
+arguments:
   ip                    Target ip address, if none, looking at localhost.
 
 options:
